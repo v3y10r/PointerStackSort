@@ -1,0 +1,15 @@
+C:\Users\student\Desktop\MyStackSort\MyStackSort\bin\Debug\net6.0\MyStackSort.exe
+C:\Users\student\Desktop\MyStackSort\MyStackSort\bin\Debug\net6.0\MyStackSort.deps.json
+C:\Users\student\Desktop\MyStackSort\MyStackSort\bin\Debug\net6.0\MyStackSort.runtimeconfig.json
+C:\Users\student\Desktop\MyStackSort\MyStackSort\bin\Debug\net6.0\MyStackSort.dll
+C:\Users\student\Desktop\MyStackSort\MyStackSort\bin\Debug\net6.0\MyStackSort.pdb
+C:\Users\student\Desktop\MyStackSort\MyStackSort\obj\Debug\net6.0\MyStackSort.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\MyStackSort\MyStackSort\obj\Debug\net6.0\MyStackSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\MyStackSort\MyStackSort\obj\Debug\net6.0\MyStackSort.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\MyStackSort\MyStackSort\obj\Debug\net6.0\MyStackSort.AssemblyInfo.cs
+C:\Users\student\Desktop\MyStackSort\MyStackSort\obj\Debug\net6.0\MyStackSort.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\MyStackSort\MyStackSort\obj\Debug\net6.0\MyStackSort.dll
+C:\Users\student\Desktop\MyStackSort\MyStackSort\obj\Debug\net6.0\refint\MyStackSort.dll
+C:\Users\student\Desktop\MyStackSort\MyStackSort\obj\Debug\net6.0\MyStackSort.pdb
+C:\Users\student\Desktop\MyStackSort\MyStackSort\obj\Debug\net6.0\MyStackSort.genruntimeconfig.cache
+C:\Users\student\Desktop\MyStackSort\MyStackSort\obj\Debug\net6.0\ref\MyStackSort.dll
